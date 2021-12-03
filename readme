@@ -1,1 +1,10 @@
 
+This is a readme of the codes necessary to generate the plots of the CS230 Project
+
+Training_NN py is the code used to train the preliminary neural network
+OAT adding is the code used to evaliuate R2 when adding variables
+Train different sets.py allows the evaluation of random, random +ID and ID training protocols
+OAT_importance is the implementation of the simple variable importance
+LIME Algorithm is the implementation of LIME
+
+The rest of the files are datasets.
